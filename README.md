@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ✍️ Mi objetivo es ser un desarrollador full-stack experimentado en el futuro.
 
 
-- 📫 Puedes contactarme en dahiana1507becerra@gmail.com
+- 📫 Puedes contactarme en dahian1507becerra@gmail.com
 
 ## Tecnologías y Herramientas
 
