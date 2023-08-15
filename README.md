@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ Soy July Dayana Becerra Moreno, un apasionado del desarrollo web con un amor profundo por la tecnología y la programación.
+
+## Acerca de mí
+
+- 🌱 Actualmente estoy aprendiendo sobre desarrollo Front-End utilizando JavaScript, CSS3, Html, Node.Js, Npm.
+- 🎓 Tengo formación en Tecnico en Sistemas informatios.
+- 💡 Siempre estoy buscando formas de innovar y mejorar, especialmente en desarrollo web basandome en que la experiencia de usuario sea amigable.
+- ✍️ Mi objetivo es ser un desarrollador full-stack experimentado en el futuro.
+
+
+- 📫 Puedes contactarme en dahiana1507becerra@gmail.com
+
+## Tecnologías y Herramientas
+
+¡Aquí hay algunas de las tecnologías y herramientas con las que trabajo!
+
+- Lenguajes de Programación: [JavaScript, Html, Css3, Php ].
+- Frameworks y Bibliotecas: [Npm, Node.Js, Firebase, Eslint, Git.].
+- Bases de Datos: MongoDb, Mysql
+
+
+
+¡Espero con interés conectarme contigo!
