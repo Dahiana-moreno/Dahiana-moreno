@@ -1,6 +1,6 @@
 # 💫 About Me:
 Soy July Dayana Becerra Moreno, desarrolladora web frontend, desarrollo aplicaciones utilizando principlamente JavaScript, HTML, CSS y NodeJs
-un apasionado del desarrollo web con un amor profundo por la tecnología y la programación.<br><br>## Acerca de mí<br><br>- 🌱 Actualmente estoy aprendiendo React y la herramienta de figma para prototipos<br>- 🎓 Tengo formación en Tecnico en Sistemas informatios.<br>- 💡 Siempre estoy buscando formas de innovar y mejorar, especialmente en desarrollo web basandome en que la experiencia de usuario sea amigable.<br>- ✍️ Mi objetivo es lograr desarrollar con suficiencia en JavaScript y centrarme en poner al usuario en primer lugar. <br><br><br>- 📫 Puedes contactarme en dahian1507becerra@gmail.com<br>¡Espero con interés conectarme contigo!<br>
+un apasionado del desarrollo web con un amor profundo por la tecnología y la programación.<br><br>- 🌱 Actualmente estoy aprendiendo React y la herramienta de figma para prototipos<br>- 🎓 Tengo formación en Tecnico en Sistemas informatios.<br>- 💡 Siempre estoy buscando formas de innovar y mejorar, especialmente en desarrollo web basandome en que la experiencia de usuario sea amigable.<br>- ✍️ Mi objetivo es lograr desarrollar con suficiencia en JavaScript y centrarme en poner al usuario en primer lugar. <br><br><br>- 📫 Puedes contactarme en dahian1507becerra@gmail.com<br>¡Espero con interés conectarme contigo!<br>
 
 
 ## 🌐 Socials:
