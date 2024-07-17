@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">Soy July Dayana de Colombia<br><br>- 🔭 Actualmente estoy Trabajando en un sitio para gimnasios<br>- 📚 Actualmente estoy aprendiendo react<br>- 👨‍💻 Todos mis proyectos están disponibles en https://portafolio-three-beige.vercel.app/<br>- 📫 Quieres contactar conmigo  estos son mis correos ** dbecerradev@gmail.com dahian1507becerra@gmail.com**<br>- 🎓 Tecnico en sistemas, Ingenieria de sistemas.<br>- 💡 Siempre estoy buscando formas de innovar y mejorar, especialmente en desarrollo web basandome en que la experiencia de usuario sea amigable.</p>
+<p align="left">Soy July Dayana de Colombia<br><br>- 🔭 Actualmente estoy Trabajando en un sitio para gimnasios<br>- 📚 Actualmente estoy aprendiendo react<br>- 👨‍💻 Todos mis proyectos están disponibles en https://portafolio-daycode.vercel.app/<br>- 📫 Quieres contactar conmigo  estos son mis correos ** dbecerradev@gmail.com dahian1507becerra@gmail.com**<br>- 🎓 Tecnico en sistemas, Ingenieria de sistemas.<br>- 💡 Siempre estoy buscando formas de innovar y mejorar, especialmente en desarrollo web basandome en que la experiencia de usuario sea amigable.</p>
 
 ###
 
